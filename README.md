@@ -1,45 +1,87 @@
-\## Brief Self-Intro
+ ## Brief Introduction:
 
->> I am Ganeshkumar.V an Data Analyst, currently working on an one month intern at Future Interns regarding Data Analytics on Jan-Feb '26.
+>> I am Ganeshkumar V an Data Analyst, currently working on an one month intern at Future Interns regarding Data Analytics on Jan-Feb '26.
 
->> This is my First step into my Data Career, doing Intership at @future intern regarding Data Analytics course so hopefully I will be working well focused with consistent output and also excited to get hands on exposure at my intern.  
-
-
-\# Online Retail Sales Performance Analysis
-
->> This repository contains the whole context of my first task \\\[Task - 01] of the Data Science \\\& Internship at Future Interns (Jan-Feb 2026).
+>> This is my First step into my Data Career, doing Internship at @future intern regarding Data Analytics course so hopefully I will be working well focused with consistent output and also excited to get hands on exposure at my intern.  
 
 
-\# Objective
+ ## Project Overview:
 
->> To Analyze the online retail transaction data for understanding sales trends, product performance over time, returns impact, and revenue distribution.
+>> This repository contains the complete work for Task 01 of my internship at Future Interns, centered on sales performance analysis using the Online Retail dataset.
 
->> By building Dashboard & report.
+The task involves:
+
+	- Cleaning raw transactional data
+
+	- Creating core sales KPIs
+
+	- Building an interactive Power BI dashboard
+
+	- Validating results across tools
+
+ ## Objective:
+
+>> To analyze online retail transaction data in order to:
+
+	- Understand overall sales trends
+
+	- Evaluate product-level revenue performance
+
+	- Analyze revenue distribution across countries
+
+	- Build a clear and interactive sales performance dashboard
 
 
-\# Dataset
+ ## Dataset:
 
->> I pull out the dataset from an public platform 
-(Kaggle - https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data,
- UC Irvine - https://archive.ics.uci.edu/dataset/352/online+retail) for Task-1.
+>> I pull out the dataset from an public platform  for Task-1:
+	 - Kaggle - https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data,
+	 - UC Irvine - https://archive.ics.uci.edu/dataset/352/online+retail.
 
 
-\# Tools Used
+ ## Tools Used:
 
->> Python (Pandas, NumPy, Matplotlib, Seaborn)
+>> Python (Pandas, NumPy)
 >> Power BI
 >> Git & GitHub
 
 
-\# Repository Structure
+ ## Repository Structure:
 
->> data/        → Raw dataset
->> notebooks/   → Data Cleaning & EDA
->> dashboards/  → Power BI Dashboard
->> reports/     → Business insights summary
+>> data/        → Raw and cleaned dataset
+>> notebooks/   → Data Cleaning and Analysis (Python)
+>> dashboards/  → Power BI Dashboard [.pbix & Screenshots]
+>> README.md    → Project Documentation
+
+ ## Key Deliverables:
+
+>> Cleaned and validated transaction dataset
+
+>> Sales KPIs:
+
+	Total Revenue
+
+	Total Orders
+
+	Average Order Value (AOV)
+
+	Total Quantity Sold
+
+>> Interactive Power BI dashboard:
+
+	- Revenue trends over time
+
+	- Revenue by country (Top 10)
+
+	- Top 10 products by revenue
+
+>> KPI validation between Python and Power BI
 
 
-\# Status
+ ## Project Status:
 
+		-------- COMPLETED --------
 
-                ---------------------In Progress----------------------
+ ## License
+This project is licensed under the MIT License.
+                
