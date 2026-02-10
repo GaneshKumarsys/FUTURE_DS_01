@@ -35,7 +35,9 @@ The task involves:
  ## Dataset:
 
 >> I pull out the dataset from an public platform  for Task-1:
+
 	 - Kaggle - https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data,
+	 
 	 - UC Irvine - https://archive.ics.uci.edu/dataset/352/online+retail.
 
 
